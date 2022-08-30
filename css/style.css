@@ -892,7 +892,7 @@ main {
 
 /* Start number 10 */
 .tenth-project {
-  min-height: 60vh;
+  min-height: 80vh;
   display: flex;
   justify-content: center;
   align-items: center;
