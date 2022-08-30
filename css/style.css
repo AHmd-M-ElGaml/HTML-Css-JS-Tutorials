@@ -275,7 +275,7 @@ main {
 /* Start number 3*/
 
 .third-project {
-  min-height: 60vh;
+  height: 70vh;
   background-color: rgb(241,245,248);
   position: relative;
 }
@@ -359,7 +359,7 @@ main {
 
 /* Start number 4 */
 .fourth-project {
-  min-height: 60vh;
+  height: 70vh;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -424,7 +424,7 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 80vh;
+  height: 80vh;
 }
 .sixth-project .sect-sixth {
   display: flex;
